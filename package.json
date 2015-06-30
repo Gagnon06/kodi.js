@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/msloth/kodi.js/issues"
   },
-  "homepage": "https://github.com/msloth/kodi.js"
+  "homepage": "https://github.com/msloth/kodi.js",
+  "dependencies": {
+    "request": "^2.58.0"
+  }
 }

@@ -1,7 +1,7 @@
 /*---------------------------------------------------------------------------*/
-Kodi = require("kodi");
+Kodi = require("../index.js");
 /*---------------------------------------------------------------------------*/
-var movie = 493; // a movie from your library
+var movie = 2; // a movie from your library
 
 var kodi = new Kodi({
     host: 'localhost',
